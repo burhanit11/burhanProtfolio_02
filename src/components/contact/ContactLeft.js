@@ -24,10 +24,11 @@ const ContactLeft = () => {
           Phone: <span className="text-lightText">+92306 8866 333</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Email: <span className="text-lightText">burhanrabbani320.com</span>
+          Email: <span className="text-lightText">burhanit11@gmail.com</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Email : <span className="text-lightText">burhanbur320.com</span>
+          Email :{" "}
+          <span className="text-lightText">burhanrabbani320@gmail.com</span>
         </p>
       </div>
       <div className="flex flex-col gap-4">
@@ -41,12 +42,12 @@ const ContactLeft = () => {
           <span className="bannerIcon">
             <FaTwitter />
           </span>
-          <a href="https://www.linkedin.com/in/burhan-bur320/">
+          <a href="https://www.linkedin.com/in/burhanit11">
             <span className="bannerIcon">
               <FaLinkedinIn />
             </span>
           </a>
-          <a href="https://github.com/burhan-320">
+          <a href="https://github.com/burhanit11">
             <span className="bannerIcon">
               <AiOutlineGithub />
             </span>

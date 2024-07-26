@@ -11,8 +11,6 @@ const Media = () => {
       <div>
         {/* <h2 className="text-base uppercase font-titleFont mb-4">Download CV</h2> */}
         <div className="flex gap-4">
-       
-
           <a
             href={cvUrl}
             className="bannerIcon w-48"
